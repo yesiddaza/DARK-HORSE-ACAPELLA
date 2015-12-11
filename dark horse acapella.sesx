@@ -747,7 +747,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="3178373" fileID="6" hue="-1" id="2" lockedInTime="false" looped="false" name="dark horse hey_coro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="547073" startPoint="2631300" zOrder="45151">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.7765338">
+            <parameter index="0" name="volume" parameterValue="5.623414">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="400130" select="false" type="linear" value="0.6133699"/>
                 <parameterKeyframe sampleOffset="400131" select="false" type="linear" value="0.5804029"/>
@@ -837,7 +837,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6064635" fileID="6" hue="-1" id="6" lockedInTime="false" looped="false" name="dark horse hey_coro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="547073" startPoint="5517562" zOrder="45148">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.7765325">
+            <parameter index="0" name="volume" parameterValue="0.87683">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="400130" select="false" type="linear" value="0.6133699"/>
                 <parameterKeyframe sampleOffset="400131" select="false" type="linear" value="0.5804029"/>
@@ -1690,7 +1690,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="4" endPoint="1987913" fileID="16" hue="-1" id="3" lockedInTime="false" looped="false" name="dark horse_principal_primera_estrofa_editada" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1257233" startPoint="730680" zOrder="44827">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1">
+            <parameter index="0" name="volume" parameterValue="5.623414">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="401801" select="false" type="linear" value="0.6500002"/>
                 <parameterKeyframe sampleOffset="407107" select="false" type="linear" value="0.6500001"/>
@@ -2002,7 +2002,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10014" index="5" select="true" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10014" index="5" select="false" visible="true">
         <trackParameters trackHeight="103">
           <name>SOPRANO</name>
         </trackParameters>
@@ -2282,7 +2282,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="-44.9754601">
+            <parameter index="0" name="Panorámica" parameterValue="-18.0713539">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="605902" select="false" type="linear" value="0.7248773"/>
                 <parameterKeyframe sampleOffset="614246" select="false" type="linear" value="0.7248773"/>
@@ -2304,7 +2304,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="2520713" fileID="24" hue="-1" id="4" lockedInTime="false" looped="false" name="dark horse acapella_soprano_intro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="561886" startPoint="1958827" zOrder="45126">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.3325684">
+            <parameter index="0" name="volume" parameterValue="5.623414">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="157885" select="false" type="linear" value="0.2174665"/>
                 <parameterKeyframe sampleOffset="419749" select="false" type="linear" value="0.3123377"/>
@@ -2331,7 +2331,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="3082599" fileID="24" hue="-1" id="5" lockedInTime="false" looped="false" name="dark horse acapella_soprano_intro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="561886" startPoint="2520713" zOrder="45125">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.7360614">
+            <parameter index="0" name="volume" parameterValue="2.8678818">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="6689" select="false" type="linear" value="0.4118471"/>
                 <parameterKeyframe sampleOffset="108980" select="false" type="linear" value="0.5492806"/>
@@ -2345,7 +2345,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="-56.3625221">
+            <parameter index="0" name="Panorámica" parameterValue="35.057415">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="6966" select="false" type="linear" value="0.6500205"/>
                 <parameterKeyframe sampleOffset="82499" select="false" type="linear" value="0.7262917"/>
@@ -2435,7 +2435,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="-26.819479">
+            <parameter index="0" name="Panorámica" parameterValue="-18.0713539">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="605902" select="false" type="linear" value="0.7248773"/>
                 <parameterKeyframe sampleOffset="614246" select="false" type="linear" value="0.7248773"/>
@@ -2469,7 +2469,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="-44.9754601">
+            <parameter index="0" name="Panorámica" parameterValue="-18.0713539">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="605902" select="false" type="linear" value="0.7248773"/>
                 <parameterKeyframe sampleOffset="614246" select="false" type="linear" value="0.7248773"/>
@@ -2491,7 +2491,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="5406975" fileID="24" hue="-1" id="10" lockedInTime="false" looped="false" name="dark horse acapella_soprano_intro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="561886" startPoint="4845089" zOrder="45122">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.332568">
+            <parameter index="0" name="volume" parameterValue="0.3547121">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="157885" select="false" type="linear" value="0.2174665"/>
                 <parameterKeyframe sampleOffset="419749" select="false" type="linear" value="0.3123377"/>
@@ -2518,7 +2518,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="5968861" fileID="24" hue="-1" id="11" lockedInTime="false" looped="false" name="dark horse acapella_soprano_intro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="561886" startPoint="5406975" zOrder="45120">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.7360614">
+            <parameter index="0" name="volume" parameterValue="0.7156787">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="6689" select="false" type="linear" value="0.4118471"/>
                 <parameterKeyframe sampleOffset="108980" select="false" type="linear" value="0.5492806"/>
@@ -2532,7 +2532,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="-56.3625221">
+            <parameter index="0" name="Panorámica" parameterValue="-53.3254395">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="6966" select="false" type="linear" value="0.6500205"/>
                 <parameterKeyframe sampleOffset="82499" select="false" type="linear" value="0.7262917"/>
@@ -3698,7 +3698,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="1" crossFadeTailClipID="-1" endPoint="2724209" fileID="34" hue="-1" id="2" lockedInTime="false" looped="false" name="VOZ DE FONDO_013" offline="false" select="false" sourceInPoint="89609" sourceOutPoint="415668" startPoint="2398150" zOrder="44963">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1">
+            <parameter index="0" name="volume" parameterValue="5.623414">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="233954" select="false" type="linear" value="0.65"/>
                 <parameterKeyframe sampleOffset="244087" select="false" type="linear" value="0.65"/>
@@ -4482,7 +4482,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="-60.4444618">
+            <parameter index="0" name="Panorámica" parameterValue="-100">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="442588" select="false" type="linear" value="0.9088889"/>
                 <parameterKeyframe sampleOffset="523059" select="false" type="linear" value="0.8022223"/>
@@ -4742,7 +4742,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="2600999" fileID="41" hue="-1" id="2" lockedInTime="false" looped="false" name="dark horse acapella_bajo_intro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="642172" startPoint="1958827" zOrder="44617">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="0.4295149">
+            <parameter index="0" name="volume" parameterValue="0">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="511936" select="false" type="linear" value="0.5171775"/>
                 <parameterKeyframe sampleOffset="596873" select="false" type="linear" value="0.445235"/>
@@ -5469,7 +5469,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10002" index="9" select="false" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10002" index="9" select="true" visible="true">
         <trackParameters trackHeight="103">
           <name>PERCUSIÓN</name>
         </trackParameters>
@@ -5671,7 +5671,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="2605954" fileID="49" hue="-1" id="1" lockedInTime="false" looped="false" name="OTHERS_022" offline="false" select="false" sourceInPoint="420128" sourceOutPoint="466252" startPoint="2559830" zOrder="45057">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="2605954" fileID="49" hue="-1" id="1" lockedInTime="false" looped="false" name="OTHERS_022" offline="false" select="false" sourceInPoint="0" sourceOutPoint="46124" startPoint="2559830" zOrder="45222">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -5684,8 +5684,7 @@
             <parameter index="0" name="Panorámica" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="46124" shape="19" startPoint="46124" type="log"/>
-          <take sourceInPoint="0"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="46124" shape="0" startPoint="46124" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <channelMap>
@@ -5693,7 +5692,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="3161230" fileID="50" hue="-1" id="2" lockedInTime="false" looped="false" name="dark horse acapella_percusion_coro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="70511" startPoint="3090719" zOrder="45055">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="3161230" fileID="50" hue="-1" id="2" lockedInTime="false" looped="false" name="dark horse acapella_percusion_coro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="70511" startPoint="3090719" zOrder="45224">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="0.7160661">
               <parameterKeyframes enableSplines="false">
@@ -5760,7 +5759,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="5492216" fileID="49" hue="-1" id="5" lockedInTime="false" looped="false" name="OTHERS_022" offline="false" select="false" sourceInPoint="420128" sourceOutPoint="466252" startPoint="5446092" zOrder="45042">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="5492216" fileID="49" hue="-1" id="5" lockedInTime="false" looped="false" name="OTHERS_022" offline="false" select="true" sourceInPoint="0" sourceOutPoint="46124" startPoint="5446092" zOrder="45236">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -5773,7 +5772,7 @@
             <parameter index="0" name="Panorámica" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="46124" shape="19" startPoint="46124" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="46124" shape="0" startPoint="46124" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <channelMap>
@@ -5781,7 +5780,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6047492" fileID="50" hue="-1" id="6" lockedInTime="false" looped="false" name="dark horse acapella_percusion_coro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="70511" startPoint="5976981" zOrder="45040">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6047492" fileID="50" hue="-1" id="6" lockedInTime="false" looped="false" name="dark horse acapella_percusion_coro" offline="false" select="true" sourceInPoint="0" sourceOutPoint="70511" startPoint="5976981" zOrder="45238">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="0.7160661">
               <parameterKeyframes enableSplines="false">
@@ -6535,7 +6534,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="19.3428516">
+            <parameter index="0" name="Panorámica" parameterValue="100">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="464112" select="false" type="linear" value="0.3004647"/>
                 <parameterKeyframe sampleOffset="488586" select="false" type="linear" value="0.2948718"/>
@@ -6630,7 +6629,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6047492" fileID="50" hue="-1" id="5" lockedInTime="false" looped="false" name="dark horse acapella_percusion_coro" offline="false" select="false" sourceInPoint="0" sourceOutPoint="563160" startPoint="5484332" zOrder="44997">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="5.623414">
+            <parameter index="0" name="volume" parameterValue="0.8380761">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="455622" select="false" type="linear" value="0.6030361"/>
                 <parameterKeyframe sampleOffset="494169" select="false" type="linear" value="0.4664698"/>
@@ -6643,7 +6642,7 @@
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Panorámica" parameterValue="19.3428516">
+            <parameter index="0" name="Panorámica" parameterValue="39.9260025">
               <parameterKeyframes enableSplines="true">
                 <parameterKeyframe sampleOffset="464112" select="false" type="linear" value="0.3004647"/>
                 <parameterKeyframe sampleOffset="488586" select="false" type="linear" value="0.2948718"/>
@@ -8156,9 +8155,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="6184650" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="6184650"/>
-      <viewState horizontalViewDuration="13919133" horizontalViewStart="0" trackControlsWidth="228" verticalScrollOffset="-378"/>
+    <sessionState ctiPosition="5693850" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="5693850"/>
+      <viewState horizontalViewDuration="3364971" horizontalViewStart="0" trackControlsWidth="228" verticalScrollOffset="-559"/>
       <timeFormatState beatsPerBar="4" beatsPerMinute="120" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatTimeCode"/>
     </sessionState>
     <xmpMetadata><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
@@ -8168,15 +8167,15 @@
             xmlns:xmp="http://ns.adobe.com/xap/1.0/">
          <xmp:CreatorTool>Adobe Audition CS6 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2015-08-22T13:34:44-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2015-12-11T17:20:20-05:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2015-12-11T17:20:20-05:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2015-12-11T17:32:12-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2015-12-11T17:32:12-05:00</xmp:ModifyDate>
       </rdf:Description>
       <rdf:Description rdf:about=""
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
             xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
-         <xmpMM:InstanceID>xmp.iid:B4EB502654A0E511862DE91766F5DB42</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:DFCE209C53A0E511862DE91766F5DB42</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:4DF344FC56A0E5118362FEA304A70D8C</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:E8E7249656A0E5118362FEA304A70D8C</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:E5FB330FFB48E511A2D1BBC3C628D6EF</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
@@ -16559,11 +16558,53 @@
                   <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:E7E7249656A0E5118362FEA304A70D8C</stEvt:instanceID>
+                  <stEvt:when>2015-12-11T17:29:10-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:E8E7249656A0E5118362FEA304A70D8C</stEvt:instanceID>
+                  <stEvt:when>2015-12-11T17:29:10-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4AF344FC56A0E5118362FEA304A70D8C</stEvt:instanceID>
+                  <stEvt:when>2015-12-11T17:31:56-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4BF344FC56A0E5118362FEA304A70D8C</stEvt:instanceID>
+                  <stEvt:when>2015-12-11T17:31:56-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4CF344FC56A0E5118362FEA304A70D8C</stEvt:instanceID>
+                  <stEvt:when>2015-12-11T17:32:12-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4DF344FC56A0E5118362FEA304A70D8C</stEvt:instanceID>
+                  <stEvt:when>2015-12-11T17:32:12-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:DECE209C53A0E511862DE91766F5DB42</stRef:instanceID>
-            <stRef:documentID>xmp.did:2AA5970152A0E511862DE91766F5DB42</stRef:documentID>
+            <stRef:instanceID>xmp.iid:E7E7249656A0E5118362FEA304A70D8C</stRef:instanceID>
+            <stRef:documentID>xmp.did:DFCE209C53A0E511862DE91766F5DB42</stRef:documentID>
             <stRef:originalDocumentID>xmp.did:E5FB330FFB48E511A2D1BBC3C628D6EF</stRef:originalDocumentID>
          </xmpMM:DerivedFrom>
       </rdf:Description>
@@ -16613,131 +16654,106 @@
                            
 <?xpacket end="w"?>]]></xmpMetadata>
     <clipGroups>
-      <clipGroup hue="326" id="0">
-        <name>Grupo 36</name>
-        <item clipID="7" trackID="10024"/>
-        <item clipID="6" trackID="10024"/>
+      <clipGroup hue="126" id="0">
+        <name>Grupo 38</name>
+        <item clipID="6" trackID="10002"/>
+        <item clipID="5" trackID="10002"/>
       </clipGroup>
-      <clipGroup hue="46" id="1">
-        <name>Grupo 35</name>
-        <item clipID="3" trackID="10024"/>
-        <item clipID="2" trackID="10024"/>
+      <clipGroup hue="246" id="1">
+        <name>Grupo 37</name>
+        <item clipID="2" trackID="10002"/>
+        <item clipID="1" trackID="10002"/>
       </clipGroup>
       <clipGroup hue="126" id="2">
-        <name>Grupo 34</name>
-        <item clipID="6" trackID="10013"/>
-        <item clipID="8" trackID="10013"/>
-        <item clipID="7" trackID="10013"/>
+        <name>Grupo 18</name>
+        <item clipID="9" trackID="10013"/>
+        <item clipID="12" trackID="10013"/>
+        <item clipID="13" trackID="10013"/>
+        <item clipID="14" trackID="10013"/>
+        <item clipID="15" trackID="10013"/>
+        <item clipID="11" trackID="10013"/>
+        <item clipID="10" trackID="10013"/>
       </clipGroup>
       <clipGroup hue="246" id="3">
-        <name>Grupo 33</name>
-        <item clipID="13" trackID="10014"/>
-        <item clipID="10" trackID="10014"/>
-        <item clipID="12" trackID="10014"/>
-        <item clipID="11" trackID="10014"/>
+        <name>Grupo 17</name>
+        <item clipID="0" trackID="10011"/>
+        <item clipID="17" trackID="10024"/>
+        <item clipID="24" trackID="10024"/>
+        <item clipID="19" trackID="10024"/>
+        <item clipID="22" trackID="10024"/>
+        <item clipID="21" trackID="10024"/>
+        <item clipID="23" trackID="10024"/>
+        <item clipID="20" trackID="10024"/>
+        <item clipID="18" trackID="10024"/>
       </clipGroup>
       <clipGroup hue="326" id="4">
-        <name>Grupo 32</name>
-        <item clipID="3" trackID="10013"/>
-        <item clipID="1" trackID="10013"/>
-        <item clipID="2" trackID="10013"/>
+        <name>Grupo 16</name>
+        <item clipID="8" trackID="10024"/>
+        <item clipID="9" trackID="10024"/>
+        <item clipID="12" trackID="10024"/>
+        <item clipID="10" trackID="10024"/>
+        <item clipID="13" trackID="10024"/>
+        <item clipID="11" trackID="10024"/>
+        <item clipID="15" trackID="10024"/>
+        <item clipID="16" trackID="10024"/>
+        <item clipID="14" trackID="10024"/>
       </clipGroup>
       <clipGroup hue="46" id="5">
-        <name>Grupo 31</name>
-        <item clipID="5" trackID="10002"/>
-        <item clipID="6" trackID="10002"/>
+        <name>Grupo 15</name>
+        <item clipID="8" trackID="10004"/>
+        <item clipID="13" trackID="10004"/>
+        <item clipID="7" trackID="10004"/>
+        <item clipID="11" trackID="10004"/>
+        <item clipID="9" trackID="10004"/>
+        <item clipID="12" trackID="10004"/>
+        <item clipID="10" trackID="10004"/>
       </clipGroup>
       <clipGroup hue="126" id="6">
-        <name>Grupo 30</name>
-        <item clipID="5" trackID="10004"/>
-        <item clipID="6" trackID="10004"/>
+        <name>Grupo 14</name>
+        <item clipID="29" trackID="10012"/>
+        <item clipID="30" trackID="10012"/>
       </clipGroup>
-      <clipGroup hue="246" id="7">
-        <name>Grupo 29</name>
-        <item clipID="1" trackID="10002"/>
-        <item clipID="2" trackID="10002"/>
+      <clipGroup hue="46" id="7">
+        <name>Grupo 03</name>
+        <item clipID="11" trackID="10012"/>
+        <item clipID="19" trackID="10012"/>
+        <item clipID="20" trackID="10012"/>
+        <item clipID="18" trackID="10012"/>
+        <item clipID="17" trackID="10012"/>
+        <item clipID="15" trackID="10012"/>
+        <item clipID="16" trackID="10012"/>
+        <item clipID="14" trackID="10012"/>
+        <item clipID="13" trackID="10012"/>
+        <item clipID="12" trackID="10012"/>
       </clipGroup>
-      <clipGroup hue="326" id="8">
-        <name>Grupo 28</name>
-        <item clipID="1" trackID="10004"/>
-        <item clipID="2" trackID="10004"/>
+      <clipGroup hue="126" id="8">
+        <name>Grupo 02</name>
+        <item clipID="50" trackID="10014"/>
+        <item clipID="46" trackID="10014"/>
+        <item clipID="51" trackID="10014"/>
+        <item clipID="47" trackID="10014"/>
+        <item clipID="48" trackID="10014"/>
+        <item clipID="49" trackID="10014"/>
       </clipGroup>
-      <clipGroup hue="46" id="9">
-        <name>Grupo 27</name>
-        <item clipID="6" trackID="10012"/>
-        <item clipID="7" trackID="10012"/>
+      <clipGroup hue="206" id="9">
+        <name>Grupo 01</name>
+        <item clipID="31" trackID="10014"/>
+        <item clipID="45" trackID="10014"/>
+        <item clipID="39" trackID="10014"/>
+        <item clipID="38" trackID="10014"/>
+        <item clipID="37" trackID="10014"/>
+        <item clipID="36" trackID="10014"/>
+        <item clipID="43" trackID="10014"/>
+        <item clipID="40" trackID="10014"/>
+        <item clipID="33" trackID="10014"/>
+        <item clipID="44" trackID="10014"/>
+        <item clipID="35" trackID="10014"/>
+        <item clipID="34" trackID="10014"/>
+        <item clipID="42" trackID="10014"/>
+        <item clipID="41" trackID="10014"/>
+        <item clipID="32" trackID="10014"/>
       </clipGroup>
-      <clipGroup hue="246" id="10">
-        <name>Grupo 25</name>
-        <item clipID="2" trackID="10012"/>
-        <item clipID="3" trackID="10012"/>
-      </clipGroup>
-      <clipGroup hue="46" id="11">
-        <name>Grupo 23</name>
-        <item clipID="7" trackID="10014"/>
-        <item clipID="6" trackID="10014"/>
-        <item clipID="4" trackID="10014"/>
-        <item clipID="5" trackID="10014"/>
-      </clipGroup>
-      <clipGroup hue="46" id="12">
-        <name>Grupo 11</name>
-        <item clipID="12" trackID="10003"/>
-        <item clipID="10" trackID="10003"/>
-        <item clipID="7" trackID="10003"/>
-        <item clipID="9" trackID="10003"/>
-        <item clipID="8" trackID="10003"/>
-        <item clipID="11" trackID="10003"/>
-      </clipGroup>
-      <clipGroup hue="126" id="13">
-        <name>Grupo 10</name>
-        <item clipID="28" trackID="10012"/>
-        <item clipID="21" trackID="10012"/>
-        <item clipID="22" trackID="10012"/>
-        <item clipID="23" trackID="10012"/>
-        <item clipID="24" trackID="10012"/>
-        <item clipID="25" trackID="10012"/>
-        <item clipID="27" trackID="10012"/>
-        <item clipID="26" trackID="10012"/>
-      </clipGroup>
-      <clipGroup hue="46" id="14">
-        <name>Grupo 07</name>
-        <item clipID="30" trackID="10014"/>
-        <item clipID="18" trackID="10014"/>
-        <item clipID="15" trackID="10014"/>
-        <item clipID="24" trackID="10014"/>
-        <item clipID="25" trackID="10014"/>
-        <item clipID="26" trackID="10014"/>
-        <item clipID="16" trackID="10014"/>
-        <item clipID="20" trackID="10014"/>
-        <item clipID="17" trackID="10014"/>
-        <item clipID="23" trackID="10014"/>
-        <item clipID="22" trackID="10014"/>
-        <item clipID="27" trackID="10014"/>
-        <item clipID="21" trackID="10014"/>
-        <item clipID="29" trackID="10014"/>
-        <item clipID="28" trackID="10014"/>
-        <item clipID="19" trackID="10014"/>
-      </clipGroup>
-      <clipGroup hue="246" id="15">
-        <name>Grupo 05</name>
-        <item clipID="20" trackID="10002"/>
-        <item clipID="23" trackID="10002"/>
-        <item clipID="26" trackID="10002"/>
-        <item clipID="11" trackID="10002"/>
-        <item clipID="25" trackID="10002"/>
-        <item clipID="17" trackID="10002"/>
-        <item clipID="16" trackID="10002"/>
-        <item clipID="12" trackID="10002"/>
-        <item clipID="14" trackID="10002"/>
-        <item clipID="13" trackID="10002"/>
-        <item clipID="21" trackID="10002"/>
-        <item clipID="19" trackID="10002"/>
-        <item clipID="18" trackID="10002"/>
-        <item clipID="24" trackID="10002"/>
-        <item clipID="15" trackID="10002"/>
-        <item clipID="22" trackID="10002"/>
-      </clipGroup>
-      <clipGroup hue="326" id="16">
+      <clipGroup hue="326" id="10">
         <name>Grupo 04</name>
         <item clipID="17" trackID="10004"/>
         <item clipID="14" trackID="10004"/>
@@ -16756,94 +16772,119 @@
         <item clipID="26" trackID="10004"/>
         <item clipID="28" trackID="10004"/>
       </clipGroup>
-      <clipGroup hue="206" id="17">
-        <name>Grupo 01</name>
-        <item clipID="31" trackID="10014"/>
-        <item clipID="45" trackID="10014"/>
-        <item clipID="39" trackID="10014"/>
-        <item clipID="38" trackID="10014"/>
-        <item clipID="37" trackID="10014"/>
-        <item clipID="36" trackID="10014"/>
-        <item clipID="43" trackID="10014"/>
-        <item clipID="40" trackID="10014"/>
-        <item clipID="33" trackID="10014"/>
-        <item clipID="44" trackID="10014"/>
-        <item clipID="35" trackID="10014"/>
-        <item clipID="34" trackID="10014"/>
-        <item clipID="42" trackID="10014"/>
-        <item clipID="41" trackID="10014"/>
-        <item clipID="32" trackID="10014"/>
+      <clipGroup hue="246" id="11">
+        <name>Grupo 05</name>
+        <item clipID="20" trackID="10002"/>
+        <item clipID="23" trackID="10002"/>
+        <item clipID="26" trackID="10002"/>
+        <item clipID="11" trackID="10002"/>
+        <item clipID="25" trackID="10002"/>
+        <item clipID="17" trackID="10002"/>
+        <item clipID="16" trackID="10002"/>
+        <item clipID="12" trackID="10002"/>
+        <item clipID="14" trackID="10002"/>
+        <item clipID="13" trackID="10002"/>
+        <item clipID="21" trackID="10002"/>
+        <item clipID="19" trackID="10002"/>
+        <item clipID="18" trackID="10002"/>
+        <item clipID="24" trackID="10002"/>
+        <item clipID="15" trackID="10002"/>
+        <item clipID="22" trackID="10002"/>
       </clipGroup>
-      <clipGroup hue="126" id="18">
-        <name>Grupo 02</name>
-        <item clipID="50" trackID="10014"/>
-        <item clipID="46" trackID="10014"/>
-        <item clipID="51" trackID="10014"/>
-        <item clipID="47" trackID="10014"/>
-        <item clipID="48" trackID="10014"/>
-        <item clipID="49" trackID="10014"/>
+      <clipGroup hue="46" id="12">
+        <name>Grupo 07</name>
+        <item clipID="30" trackID="10014"/>
+        <item clipID="18" trackID="10014"/>
+        <item clipID="15" trackID="10014"/>
+        <item clipID="24" trackID="10014"/>
+        <item clipID="25" trackID="10014"/>
+        <item clipID="26" trackID="10014"/>
+        <item clipID="16" trackID="10014"/>
+        <item clipID="20" trackID="10014"/>
+        <item clipID="17" trackID="10014"/>
+        <item clipID="23" trackID="10014"/>
+        <item clipID="22" trackID="10014"/>
+        <item clipID="27" trackID="10014"/>
+        <item clipID="21" trackID="10014"/>
+        <item clipID="29" trackID="10014"/>
+        <item clipID="28" trackID="10014"/>
+        <item clipID="19" trackID="10014"/>
       </clipGroup>
-      <clipGroup hue="46" id="19">
-        <name>Grupo 03</name>
-        <item clipID="11" trackID="10012"/>
-        <item clipID="19" trackID="10012"/>
-        <item clipID="20" trackID="10012"/>
-        <item clipID="18" trackID="10012"/>
-        <item clipID="17" trackID="10012"/>
-        <item clipID="15" trackID="10012"/>
-        <item clipID="16" trackID="10012"/>
-        <item clipID="14" trackID="10012"/>
-        <item clipID="13" trackID="10012"/>
-        <item clipID="12" trackID="10012"/>
+      <clipGroup hue="126" id="13">
+        <name>Grupo 10</name>
+        <item clipID="28" trackID="10012"/>
+        <item clipID="21" trackID="10012"/>
+        <item clipID="22" trackID="10012"/>
+        <item clipID="23" trackID="10012"/>
+        <item clipID="24" trackID="10012"/>
+        <item clipID="25" trackID="10012"/>
+        <item clipID="27" trackID="10012"/>
+        <item clipID="26" trackID="10012"/>
       </clipGroup>
-      <clipGroup hue="126" id="20">
-        <name>Grupo 14</name>
-        <item clipID="29" trackID="10012"/>
-        <item clipID="30" trackID="10012"/>
+      <clipGroup hue="46" id="14">
+        <name>Grupo 11</name>
+        <item clipID="12" trackID="10003"/>
+        <item clipID="10" trackID="10003"/>
+        <item clipID="7" trackID="10003"/>
+        <item clipID="9" trackID="10003"/>
+        <item clipID="8" trackID="10003"/>
+        <item clipID="11" trackID="10003"/>
       </clipGroup>
-      <clipGroup hue="46" id="21">
-        <name>Grupo 15</name>
-        <item clipID="8" trackID="10004"/>
-        <item clipID="13" trackID="10004"/>
-        <item clipID="7" trackID="10004"/>
-        <item clipID="11" trackID="10004"/>
-        <item clipID="9" trackID="10004"/>
-        <item clipID="12" trackID="10004"/>
-        <item clipID="10" trackID="10004"/>
+      <clipGroup hue="46" id="15">
+        <name>Grupo 23</name>
+        <item clipID="7" trackID="10014"/>
+        <item clipID="6" trackID="10014"/>
+        <item clipID="4" trackID="10014"/>
+        <item clipID="5" trackID="10014"/>
       </clipGroup>
-      <clipGroup hue="326" id="22">
-        <name>Grupo 16</name>
-        <item clipID="8" trackID="10024"/>
-        <item clipID="9" trackID="10024"/>
-        <item clipID="12" trackID="10024"/>
-        <item clipID="10" trackID="10024"/>
-        <item clipID="13" trackID="10024"/>
-        <item clipID="11" trackID="10024"/>
-        <item clipID="15" trackID="10024"/>
-        <item clipID="16" trackID="10024"/>
-        <item clipID="14" trackID="10024"/>
+      <clipGroup hue="246" id="16">
+        <name>Grupo 25</name>
+        <item clipID="2" trackID="10012"/>
+        <item clipID="3" trackID="10012"/>
       </clipGroup>
-      <clipGroup hue="246" id="23">
-        <name>Grupo 17</name>
-        <item clipID="0" trackID="10011"/>
-        <item clipID="17" trackID="10024"/>
-        <item clipID="24" trackID="10024"/>
-        <item clipID="19" trackID="10024"/>
-        <item clipID="22" trackID="10024"/>
-        <item clipID="21" trackID="10024"/>
-        <item clipID="23" trackID="10024"/>
-        <item clipID="20" trackID="10024"/>
-        <item clipID="18" trackID="10024"/>
+      <clipGroup hue="46" id="17">
+        <name>Grupo 27</name>
+        <item clipID="6" trackID="10012"/>
+        <item clipID="7" trackID="10012"/>
       </clipGroup>
-      <clipGroup hue="126" id="24">
-        <name>Grupo 18</name>
-        <item clipID="9" trackID="10013"/>
-        <item clipID="12" trackID="10013"/>
-        <item clipID="13" trackID="10013"/>
-        <item clipID="14" trackID="10013"/>
-        <item clipID="15" trackID="10013"/>
-        <item clipID="11" trackID="10013"/>
-        <item clipID="10" trackID="10013"/>
+      <clipGroup hue="326" id="18">
+        <name>Grupo 28</name>
+        <item clipID="1" trackID="10004"/>
+        <item clipID="2" trackID="10004"/>
+      </clipGroup>
+      <clipGroup hue="126" id="19">
+        <name>Grupo 30</name>
+        <item clipID="5" trackID="10004"/>
+        <item clipID="6" trackID="10004"/>
+      </clipGroup>
+      <clipGroup hue="326" id="20">
+        <name>Grupo 32</name>
+        <item clipID="3" trackID="10013"/>
+        <item clipID="1" trackID="10013"/>
+        <item clipID="2" trackID="10013"/>
+      </clipGroup>
+      <clipGroup hue="246" id="21">
+        <name>Grupo 33</name>
+        <item clipID="13" trackID="10014"/>
+        <item clipID="10" trackID="10014"/>
+        <item clipID="12" trackID="10014"/>
+        <item clipID="11" trackID="10014"/>
+      </clipGroup>
+      <clipGroup hue="126" id="22">
+        <name>Grupo 34</name>
+        <item clipID="6" trackID="10013"/>
+        <item clipID="8" trackID="10013"/>
+        <item clipID="7" trackID="10013"/>
+      </clipGroup>
+      <clipGroup hue="46" id="23">
+        <name>Grupo 35</name>
+        <item clipID="3" trackID="10024"/>
+        <item clipID="2" trackID="10024"/>
+      </clipGroup>
+      <clipGroup hue="326" id="24">
+        <name>Grupo 36</name>
+        <item clipID="7" trackID="10024"/>
+        <item clipID="6" trackID="10024"/>
       </clipGroup>
     </clipGroups>
     <metronome enabled="false" pattern="subdivision subdivision subdivision upBeat " soundSet="sticks">
